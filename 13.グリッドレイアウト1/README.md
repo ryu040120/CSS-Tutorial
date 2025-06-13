@@ -13,7 +13,7 @@
 
 グリッドレイアウトでは、図のようにコンテナ内を格子状に分割します。その分割されたエリアがトラックです。
 
-![Group 1](https://github.com/user-attachments/assets/5707a93f-f755-40ac-a8a8-982e9307ab5d)
+![Group 1](https://github.com/user-ttachments/assets/5707a93f-f755-40ac-a8a8-982e9307ab5d)
 
 このトラックにアイテムを配置します。
 
